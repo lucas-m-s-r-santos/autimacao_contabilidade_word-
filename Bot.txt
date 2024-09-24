@@ -1,0 +1,5 @@
+Demanda: Sou contratado efetivo de uma Câmara Municipal no interior de MT e realizo lançamentos em um sistema contábil todos os meses.
+Realizo os mesmos lançamentos tdodos os meses utilizzando documentos que recebo dos diversos setores do órgao.
+Gostaria que o projeto python buscasse essas informações, que estao em documentos(PDF, Word, Excel),
+salvos em pastas do servidor do órgão, e realize os lançamentos automaticamente, integrando com a interface gráfica do meu sistema contabil ou por qualquer
+outro meio que faça a alimentação desse sistema.

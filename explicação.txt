@@ -1,0 +1,12 @@
+1 -  Buscar informações em documentos(World) que estão salvos
+ em uma pasta.
+2 -  Lançar as informações no sistema dele.
+
+Passo a passo:
+
+1 - Entrar no site 
+2 - preencher email, senha e entrar.
+3 - acessar o "cadastrar o balanço patrimonial"
+4 -  extrair os dados do world
+5 -  preencher os campos do arquivo world
+6 -  repito os passos 4 e 5 até chegar ao final dos arquivos!
